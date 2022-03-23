@@ -1,4 +1,4 @@
-At first, view the <a href="/how-to-write-/NO-WAR/">webpage</a> in this repository.
+At first, view the <a href="https://indie-du.github.io/how-to-write-/NO-WAR/">webpage</a> in this repository.
 
 This page explains how to write "NO WAR" in various languages.
 
