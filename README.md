@@ -17,7 +17,7 @@ Please send me infos below. (In order to my language ability, please use only En
 * If possible, stroke orders of the word
 
 Twitter : https://twitter.com/indie_game_jp  
-Pull request : Create a directory named the same as target language name under the "Teaches" directory in this repository, and write infos using any format.
+Pull request : Create a directory named the same as target language name under the "Sources" directory in this repository, and write infos using any format.
 
 ## About developer
 
